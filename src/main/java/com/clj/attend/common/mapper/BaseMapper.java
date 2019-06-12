@@ -6,7 +6,7 @@ import tk.mybatis.mapper.annotation.RegisterMapper;
 import tk.mybatis.mapper.common.Mapper;
 
 /**
- * @author 通用mapper，小曹
+ * @author 通用mapper，小曹啊
  * @date 2018/9/19
  */
 @RegisterMapper
